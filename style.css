@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+}
+
+header {
+    background-color: black;
+}
+
+h1 {
+    color: red;
+}
+
+a{
+    color: red;
+    text-decoration: none;
+}
+
+div{
+    border: solid red 1px;
+    width: 300px
+}
+
+img{
+    width: 280px ;
+}
